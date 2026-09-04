@@ -5,4 +5,5 @@ I initially started this as an idea drawn on a whiteboard for better visualizati
 - meningioma
 - pituitary
 - no tumor (healthy brains)
+
 I have a small background/interest in medicine so I will go through most of these MRIs
